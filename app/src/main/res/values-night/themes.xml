@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Roomie" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="background">@color/cardview_dark_background</item>
+        <item name="tabBackground">@color/navbar_dark</item>
+        <item name="android:navigationBarColor">@color/navbar_dark</item>
+    </style>
+</resources>
